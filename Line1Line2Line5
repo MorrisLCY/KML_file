@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Line 1 / Line 2 / Line 5</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-nodesc-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-nodesc-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-5000-nodesc-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0288D1-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0288D1-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-0288D1-6000-nodesc-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>6</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-0288D1-6000-nodesc-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>9</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-0288D1-6000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-0288D1-6000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-0288D1-6000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-5000-nodesc-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-E65100-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-E65100-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFD600-5000-nodesc-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-FFD600-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-FFD600-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFD600-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFD600-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>high way to Cambodia</name>
+      <styleUrl>#line-0288D1-6000-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          106.559712,10.915866,0
+          106.415693,11.010782,0
+          106.20017,11.067846,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Ben Thanh market</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.698385,10.771512,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Opera House</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.702603,10.775943,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ba Son</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.707373,10.781604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Van Thanh</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.715097,10.794103,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tan Cang</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.722994,10.79853,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thao Dien</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.733723,10.800532,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>An Phu</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.742628,10.802218,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rach Chiec</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.754944,10.808078,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Phuoc Long</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.757798,10.821672,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Binh Thai</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.763892,10.83261,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thu Duc</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.771673,10.846317,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hi-Tech Park (Cong Nghe Cao)</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.789212,10.859206,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Suoi Tien</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.801143,10.86634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bến Xe Miền Đông Mới</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.815084,10.879819,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Line1</name>
+      <styleUrl>#line-E65100-5000-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          106.698736,10.771545,0
+          106.702684,10.776203,0
+          106.707512,10.782,0
+          106.715194,10.794753,0
+          106.723981,10.799415,0
+          106.742628,10.802218,0
+          106.753646,10.804153,0
+          106.755448,10.80938,0
+          106.758109,10.822616,0
+          106.763945,10.833491,0
+          106.772014,10.847822,0
+          106.775618,10.85111,0
+          106.789212,10.859206,0
+          106.801143,10.86634,0
+          106.804543,10.868474,0
+          106.814586,10.881623,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Cu Chi</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.500778,10.968157,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>An Suong Bus Station</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.6137,10.842333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tan Thoi Nhat</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.620574,10.833082,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tan Binh</name>
+      <description>AKA Tham Lương</description>
+      <styleUrl>#icon-1899-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          106.627984,10.82454,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pham Van Bach</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.632335,10.813157,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ba Queo</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.635946,10.802366,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nguyen Hong Dao</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.643922,10.79736,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bay Hien</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.652816,10.792881,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pham Van Hai</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.660252,10.78896,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Thi Rieng Park</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.664672,10.786473,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hoa Hung</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.676431,10.780171,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dan Chu</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.682235,10.777156,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tao Dan</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.689732,10.773644,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ben Thanh</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.698452,10.77146,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ham Nghi</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.705924,10.77099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thu Thiem Square</name>
+      <description>quảng trường thủ thiêm</description>
+      <styleUrl>#icon-1899-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          106.710795,10.773868,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mai Chi Tho</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.719604,10.772308,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tran Nao</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.728551,10.777209,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Binh Khanh</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.73751,10.781688,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ga Thu Thiem</name>
+      <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.743014,10.7855033,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Line2</name>
+      <styleUrl>#line-FFD600-5000-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          106.743014,10.7855033,0
+          106.737626,10.781466,0
+          106.729043,10.776934,0
+          106.719902,10.772487,0
+          106.710933,10.77411,0
+          106.706269,10.77069,0
+          106.698385,10.771512,0
+          106.693328,10.771186,0
+          106.635946,10.802366,0
+          106.630328,10.822531,0
+          106.62741,10.824976,0
+          106.625093,10.827505,0
+          106.614364,10.843354,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Tan Cang</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.723981,10.799415,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hang Xanh</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.711536,10.801122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bà Chiểu</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.698864,10.801697,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nguyen Van Dau</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.686945,10.803441,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Phu Nhuan</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.680314,10.799837,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hoang Van Thu</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.669124,10.799668,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lăng Cha Cả</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.661046,10.800454,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bay Hien</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.652892,10.792765,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cho Tan Binh</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.653471,10.785988,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bac Hai</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.656239,10.778505,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bach Khoa</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.658256,10.771128,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Phu Tho</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.659308,10.764825,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>University of Medicine and Pharmacy</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.661282,10.755381,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Xom Cui</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.658235,10.744608,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>District 8 Bus Station</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.656518,10.733477,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Binh Hung</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.654844,10.720743,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Phong Phu</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.654844,10.702442,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trinh Quang Nghi</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.654673,10.693587,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Da Phuoc</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.651797,10.668073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BX Cần Giuộc</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          106.67187,10.604355,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Line 5</name>
+      <styleUrl>#line-0288D1-5000-nodesc</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          106.72403,10.799721,0
+          106.72109,10.798098,0
+          106.716155,10.800375,0
+          106.712872,10.801429,0
+          106.711456,10.801429,0
+          106.704096,10.802019,0
+          106.705512,10.80204,0
+          106.698881,10.801829,0
+          106.68532,10.804126,0
+          106.680256,10.799258,0
+          106.666673,10.800248,0
+          106.661052,10.800691,0
+          106.653026,10.792892,0
+          106.652554,10.790046,0
+          106.653649,10.786042,0
+          106.660064,10.763719,0
+          106.66236,10.75535,0
+          106.663691,10.750227,0
+          106.657962,10.744556,0
+          106.655365,10.743354,0
+          106.656309,10.740593,0
+          106.655709,10.719531,0
+          106.65558,10.712258,0
+          106.655773,10.71074,0
+          106.654164,10.698996,0
+          106.655065,10.693893,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
